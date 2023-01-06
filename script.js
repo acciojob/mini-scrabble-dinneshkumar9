@@ -18,6 +18,9 @@ function countWord() {
         if (split[i] != "") {
             count += 1;
         }
+		else{
+			count += 1;
+		}
     }
   
     // Display it as output
